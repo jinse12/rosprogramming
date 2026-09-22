@@ -77,7 +77,7 @@ average rate: 3.692
 
 ---
 
-## 4. turtlesim_node를 실행하고 새로운 창에서 강의노트의 명령어(rosbag 제외)를 모두 실습하고 결과를 캡쳐하여 제출하라. 명령과 출력 결과가 일치하는지 설명하라.
+## 실습과제 4. turtlesim_node를 실행하고 새로운 창에서 강의노트의 명령어(rosbag 제외)를 모두 실습하고 결과를 캡쳐하여 제출하라. 명령과 출력 결과가 일치하는지 설명하라.
 
 - turtlesim_node: turtle_teleop_key로부터 속도 값을 토픽으로 받아 움직이게 하는 간단 2D 시뮬레이터 노드
 <img width="929" height="541" alt="스크린샷 2026-09-22 103422" src="https://github.com/user-attachments/assets/f7265cb9-3f25-4563-b9a7-6cbfe1ed1d63" />
