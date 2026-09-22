@@ -74,3 +74,19 @@ average rate: 3.692
 - `average rate`는 빈도(Hz), `min`/`max`는 간격(초)입니다.
 - 평균 주기는 1 ÷ 3.692 ≈ 0.27초로, 약 0.27초에 한 번씩 발행된다는 뜻입니다.
 - `std dev`가 큰 것은 teleop이 키를 누를 때만 발행해서 간격이 불규칙하기 때문입니다.
+
+## 실습과제 4.
+<img width="709" height="146" alt="스크린샷 2026-09-22 100414" src="https://github.com/user-attachments/assets/88e964b0-7d5c-4288-b480-7a05ea4f07c4" />
+<img width="621" height="62" alt="스크린샷 2026-09-22 100435" src="https://github.com/user-attachments/assets/b6a5bcfb-4f5a-4a29-b854-65a612593852" />
+
+<img width="731" height="205" alt="스크린샷 2026-09-22 100511" src="https://github.com/user-attachments/assets/6ba4ed4c-3674-4717-8c98-6518b926cb25" />
+<img width="737" height="161" alt="스크린샷 2026-09-22 100528" src="https://github.com/user-attachments/assets/b1b7b921-5b02-4301-bcc1-f8cadaeef166" />
+<img width="744" height="122" alt="스크린샷 2026-09-22 100557" src="https://github.com/user-attachments/assets/469e44b1-2cb1-4ff1-9c3b-a46a7824866c" />
+<img width="707" height="80" alt="스크린샷 2026-09-22 100614" src="https://github.com/user-attachments/assets/d9fdcd1d-ff58-416d-8b23-6434e8e20735" />
+<img width="866" height="554" alt="스크린샷 2026-09-22 100905" src="https://github.com/user-attachments/assets/2328b0d8-d883-4a99-8f93-6ec7aaaa7908" />
+<img width="587" height="377" alt="스크린샷 2026-09-22 101028" src="https://github.com/user-attachments/assets/bf2931de-b71d-413d-bce4-43327c8d5293" />
+<img width="622" height="200" alt="스크린샷 2026-09-22 101119" src="https://github.com/user-attachments/assets/4e97eb67-f618-43f6-911c-52c38c4f5ed5" />
+<img width="728" height="126" alt="스크린샷 2026-09-22 101214" src="https://github.com/user-attachments/assets/3e41b14c-1b6f-42f9-8246-dafe1a6e8fec" />
+<img width="898" height="416" alt="스크린샷 2026-09-22 101447" src="https://github.com/user-attachments/assets/b3bac4f6-ead1-4154-999a-53c2e2ec2335" />
+<img width="903" height="629" alt="스크린샷 2026-09-22 101634" src="https://github.com/user-attachments/assets/2676ef5c-a027-427a-9d78-c642b41436e5" />
+
