@@ -387,7 +387,7 @@ ros2 run pub2_3 pub2_3
 
 ### 실행결과
 
-<img width="1027" height="290" alt="image" src="https://github.com/user-attachments/assets/021c8866-7f36-4bab-ae73-c6b76826675a" />
+<img width="1137" height="587" alt="image" src="https://github.com/user-attachments/assets/ab2bb81b-fe21-402f-81d9-b31c74cc99ad" />
 
 ROS2 명령어로 확인 (새 터미널):
 
@@ -398,7 +398,8 @@ ros2 topic list -t              # /turtle1/cmd_vel [geometry_msgs/msg/Twist]
 ros2 topic echo /turtle1/cmd_vel
 ros2 topic hz /turtle1/cmd_vel
 ```
-<img width="1084" height="300" alt="image" src="https://github.com/user-attachments/assets/9251e689-20d0-4444-8882-f751154d316d" />
+
+<img width="1139" height="464" alt="image" src="https://github.com/user-attachments/assets/9126ddbc-6ea7-47fb-a92d-21ba93055634" />
 
 
 ### 토픽 메시지의 수신 주기와 주파수
