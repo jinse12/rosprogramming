@@ -121,6 +121,7 @@ ros2 run pub2_1 pub2_1
 
 ### 실행결과
 
+<img width="1041" height="314" alt="image" src="https://github.com/user-attachments/assets/bcc2b338-ad5d-4e6a-8cc3-f68abc8b889d" />
 
 ROS2 명령어로 확인 (새 터미널):
 
@@ -132,6 +133,7 @@ ros2 topic echo /topic_pub2_1
 ros2 topic hz /topic_pub2_1
 ros2 topic bw /topic_pub2_1
 ```
+<img width="1069" height="314" alt="image" src="https://github.com/user-attachments/assets/4a06af05-587c-4409-8b53-758c9ab126c7" />
 
 
 ### 토픽 메시지의 수신 주기와 주파수
@@ -251,6 +253,8 @@ ros2 run pub2_2 pub2_2
 
 ### 실행결과
 
+<img width="1020" height="288" alt="image" src="https://github.com/user-attachments/assets/f198955e-f1b7-41bc-b189-a880886688d1" />
+
 
 ROS2 명령어로 확인 (새 터미널):
 
@@ -260,6 +264,8 @@ ros2 topic list -t              # /topic_pub2_2 [geometry_msgs/msg/Vector3]
 ros2 topic echo /topic_pub2_2
 ros2 topic hz /topic_pub2_2
 ```
+
+<img width="1051" height="293" alt="image" src="https://github.com/user-attachments/assets/eabec9a8-c8c6-4eac-b4be-a483c0c4166c" />
 
 
 ### 토픽 메시지의 수신 주기와 주파수
@@ -381,6 +387,7 @@ ros2 run pub2_3 pub2_3
 
 ### 실행결과
 
+<img width="1027" height="290" alt="image" src="https://github.com/user-attachments/assets/021c8866-7f36-4bab-ae73-c6b76826675a" />
 
 ROS2 명령어로 확인 (새 터미널):
 
@@ -391,6 +398,7 @@ ros2 topic list -t              # /turtle1/cmd_vel [geometry_msgs/msg/Twist]
 ros2 topic echo /turtle1/cmd_vel
 ros2 topic hz /turtle1/cmd_vel
 ```
+<img width="1084" height="300" alt="image" src="https://github.com/user-attachments/assets/9251e689-20d0-4444-8882-f751154d316d" />
 
 
 ### 토픽 메시지의 수신 주기와 주파수
